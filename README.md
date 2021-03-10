@@ -4,7 +4,6 @@
 Course Date: 08.03.2021  
 Name: Muhammet Ali  
 Surname: Aşık
-
 Email: maliask06@gmail.com  
 
  
